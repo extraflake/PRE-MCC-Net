@@ -1,0 +1,14 @@
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\bin\Debug\netcoreapp3.1\DTS-NET.exe
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\bin\Debug\netcoreapp3.1\DTS-NET.deps.json
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\bin\Debug\netcoreapp3.1\DTS-NET.runtimeconfig.json
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\bin\Debug\netcoreapp3.1\DTS-NET.runtimeconfig.dev.json
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\bin\Debug\netcoreapp3.1\DTS-NET.dll
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\bin\Debug\netcoreapp3.1\DTS-NET.pdb
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\obj\Debug\netcoreapp3.1\DTS-NET.csproj.AssemblyReference.cache
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\obj\Debug\netcoreapp3.1\DTS-NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\obj\Debug\netcoreapp3.1\DTS-NET.AssemblyInfoInputs.cache
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\obj\Debug\netcoreapp3.1\DTS-NET.AssemblyInfo.cs
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\obj\Debug\netcoreapp3.1\DTS-NET.csproj.CoreCompileInputs.cache
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\obj\Debug\netcoreapp3.1\DTS-NET.dll
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\obj\Debug\netcoreapp3.1\DTS-NET.pdb
+C:\Users\Naufal Aji Wibowo\source\repos\DTS-NET\DTS-NET\obj\Debug\netcoreapp3.1\DTS-NET.genruntimeconfig.cache
